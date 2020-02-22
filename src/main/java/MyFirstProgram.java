@@ -10,7 +10,7 @@ public class MyFirstProgram {
     }
 
     private static void hello(String somebody) {
-        System.out.println("Hello 123 " + somebody);
+        System.out.println("Hello " + somebody);
     }
 
     private static double area(Square s){
